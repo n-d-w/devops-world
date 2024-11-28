@@ -4,7 +4,7 @@ Dev(Who)Ops scripts
 
 # Start
 
-Start your new DevOps journey. Install bpkg and then install all your shell script using bash manager bpkg:
+Start your new DevOps journey. Install bpkg and then install all your shell scripts using bash manager bpkg:
 
 ```sh
 curl -sLo- https://get.bpkg.sh | bash
@@ -13,7 +13,7 @@ curl -sLo- https://get.bpkg.sh | bash
 # Configure bpkg
 
 Set `$BPKG_REMOTE` variable to path of your Github repo and create
-[Wiki page](https://github.com/n-d-w/devops-world/wiki/index.md)
+[Wiki page](https://github.com/n-d-w/devops-world/wiki/index)
 
 ```
 export BPKG_REMOTE=github.com/n-d-w/devops-world
