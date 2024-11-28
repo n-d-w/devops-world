@@ -1,0 +1,8 @@
+{
+  "name": "devops-world",
+  "version": "0.1.0",
+  "description": "Dev(Who)Ops scripts",
+  "install": "install -b devops-world.sh ${PREFIX:-/usr/local}/bin/devops-world",
+  "scripts": [ "dw.sh" ]
+}
+
